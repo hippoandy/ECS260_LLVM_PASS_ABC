@@ -1,0 +1,5 @@
+Expected Output
+------------------
+<test_programs/test_array.c>
+
+  Line 5:Array Out of Bounds Error(index 3/size 3).
